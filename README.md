@@ -1,7 +1,7 @@
 # canvas-osu
 Browser implementation of rhythm game osu! for one song
 
-Purely javascript and html  
+Purely javascript, html and css all in main.html.    
 
 Made in a group of 2 (me and Eetu Mutanen) as a part of a university course called "visual web development"  
 
